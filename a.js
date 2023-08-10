@@ -1,2 +1,2 @@
-const a=11100;
+const a=300;
 const y=20;
